@@ -1,0 +1,17 @@
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/bin/Debug/net9.0/MeSoftCase.WebApi.Application.deps.json
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/bin/Debug/net9.0/MeSoftCase.WebApi.Application.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/bin/Debug/net9.0/MeSoftCase.WebApi.Application.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/bin/Debug/net9.0/MeSoftCase.WebApi.Domain.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/bin/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/bin/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/bin/Debug/net9.0/MeSoftCase.WebApi.Domain.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/MeSoftCase.WebApi.Application.csproj.AssemblyReference.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/MeSoftCase.WebApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/MeSoftCase.WebApi.Application.AssemblyInfoInputs.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/MeSoftCase.WebApi.Application.AssemblyInfo.cs
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/MeSoftCase.WebApi.Application.csproj.CoreCompileInputs.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/MeSoftCa.9CB8670E.Up2Date
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/MeSoftCase.WebApi.Application.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/refint/MeSoftCase.WebApi.Application.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/MeSoftCase.WebApi.Application.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Application/obj/Debug/net9.0/ref/MeSoftCase.WebApi.Application.dll

@@ -1,0 +1,6 @@
+@MeSoftCase.WebApi_HostAddress = http://localhost:5200
+
+GET {{MeSoftCase.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

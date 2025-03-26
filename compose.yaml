@@ -1,0 +1,43 @@
+﻿version: '3.8'
+
+services:
+  mesoftcase.webapi:
+    image: mesoftcase.webapi
+    build:
+      context: .
+      dockerfile: MeSoftCase.WebApi/Dockerfile
+    depends_on:
+      - db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Username=postgres;Password=postgres;Database=mydatabase
+    ports:
+      - "9090:9090"  
+  
+
+  mesoftcase.webui:
+    image: mesoftcase.webui
+    build:
+      context: .
+      dockerfile: MeSoftCase.UI/Dockerfile  
+    depends_on:
+      - mesoftcase.webapi
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8080:8080"  
+
+  db:
+    image: postgres:13
+    container_name: my_postgres_container
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: mydatabase
+    ports:
+      - "5432:5432"
+
+volumes:
+  postgres_data:
+    driver: local
+ 

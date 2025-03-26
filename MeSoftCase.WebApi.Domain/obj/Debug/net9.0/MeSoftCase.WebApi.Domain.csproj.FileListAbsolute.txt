@@ -1,0 +1,12 @@
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/bin/Debug/net9.0/MeSoftCase.WebApi.Domain.deps.json
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/bin/Debug/net9.0/MeSoftCase.WebApi.Domain.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/bin/Debug/net9.0/MeSoftCase.WebApi.Domain.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/MeSoftCase.WebApi.Domain.csproj.AssemblyReference.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/MeSoftCase.WebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/MeSoftCase.WebApi.Domain.AssemblyInfoInputs.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/MeSoftCase.WebApi.Domain.AssemblyInfo.cs
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/MeSoftCase.WebApi.Domain.csproj.CoreCompileInputs.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/MeSoftCase.WebApi.Domain.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/refint/MeSoftCase.WebApi.Domain.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/MeSoftCase.WebApi.Domain.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Domain/obj/Debug/net9.0/ref/MeSoftCase.WebApi.Domain.dll

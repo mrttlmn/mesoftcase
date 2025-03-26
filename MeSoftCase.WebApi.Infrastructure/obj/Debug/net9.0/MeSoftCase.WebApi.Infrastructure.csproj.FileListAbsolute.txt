@@ -1,0 +1,15 @@
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/bin/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.deps.json
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/bin/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/bin/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/bin/Debug/net9.0/MeSoftCase.WebApi.Domain.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/bin/Debug/net9.0/MeSoftCase.WebApi.Domain.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.AssemblyInfo.cs
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/MeSoftCa.8356A177.Up2Date
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/refint/MeSoftCase.WebApi.Infrastructure.dll
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/MeSoftCase.WebApi.Infrastructure.pdb
+/Users/mrttlmn/RiderProjects/MeSoft-Case/MeSoftCase.WebApi.Infrastructure/obj/Debug/net9.0/ref/MeSoftCase.WebApi.Infrastructure.dll

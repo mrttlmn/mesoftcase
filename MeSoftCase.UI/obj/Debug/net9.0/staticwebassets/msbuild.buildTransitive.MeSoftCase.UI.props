@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/MeSoftCase.UI.props" />
+</Project>

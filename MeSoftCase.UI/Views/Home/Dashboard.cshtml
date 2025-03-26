@@ -1,0 +1,13 @@
+@model IEnumerable<MeSoftCase.UI.ResponseModels.GetUsersDataResponseModel>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+@foreach (var o in Model)
+{
+    <b>Role:</b> <span>@o.Role</span>
+    <b>Count:</b> <span>@o.Count</span>
+    <br/>
+}

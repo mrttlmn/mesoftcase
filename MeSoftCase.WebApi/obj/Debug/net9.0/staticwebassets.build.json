@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AUcKtz9aLVJmDsRKI30fauS9s7ABC2XEASG28xp9O1c=",
+  "Source": "MeSoftCase.WebApi",
+  "BasePath": "_content/MeSoftCase.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
